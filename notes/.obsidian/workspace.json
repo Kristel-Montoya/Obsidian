@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f32bcbf697bcf09",
+        "id": "cb0c022fdbbaa1c0",
         "type": "tabs",
         "children": [
           {
-            "id": "360a3d6146b91dd6",
+            "id": "21180fe1e82507ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Carlos Slim/Técnico en Redes de Datos/Lección 1/Principios Fundamentales de Redes Locales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "123a48077c82ab31",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8818ab4b766b5fee",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Principios Fundamentales de Redes Locales"
             }
           }
         ]
@@ -57,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,8 +94,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
+                "file": "Carlos Slim/Técnico en Redes de Datos/Lección 1/Principios Fundamentales de Redes Locales.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Principios Fundamentales de Redes Locales"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Carlos Slim/Técnico en Redes de Datos/Lección 1/Principios Fundamentales de Redes Locales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Principios Fundamentales de Redes Locales"
             }
           },
           {
@@ -144,8 +128,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
+                "useHierarchy": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -172,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Carlos Slim/Técnico en Redes de Datos/Lección 1/Principios Fundamentales de Redes Locales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Principios Fundamentales de Redes Locales"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -199,8 +184,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "360a3d6146b91dd6",
+  "active": "21180fe1e82507ab",
   "lastOpenFiles": [
+    "Carlos Slim/Técnico en Redes de Datos/Lección 1/Selección de Cable UTP y de F.O.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 1/Principios Fundamentales de Redes Locales.md",
+    "Attachments/image 1.png",
+    "Attachments/a6393bfb-a7cb-4618-81a1-896907b094b0.png",
+    "Attachments/2d2fa411-0ee8-404f-b1ad-b198fabcf7f1.png",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 1/Introducción a Redes LAN.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Cableado Estructurado.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Montaje de Bastidor de Telecomunicaciones.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Construcción de Canalizadores.md",
+    "Untitled.canvas",
+    "Attachments.md",
+    "Attachments",
+    "Attachments/image.png",
+    "Configuración/Git en Terminal.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 2",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 1/Untitled",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 1",
+    "Configuración",
+    "Tags",
+    "Carlos Slim/Técnico en Redes de Datos",
+    "Carlos Slim",
+    "I Semestre 2026",
     "Welcome.md"
   ]
 }
