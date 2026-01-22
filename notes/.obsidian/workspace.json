@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb0c022fdbbaa1c0",
+        "id": "1484bb60599b35e0",
         "type": "tabs",
         "children": [
           {
-            "id": "21180fe1e82507ab",
+            "id": "886617dbc81037a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carlos Slim/Técnico en Redes de Datos/Lección 1/Principios Fundamentales de Redes Locales.md",
+                "file": "Carlos Slim/Técnico en Redes de Datos/Lección 3/Tendido de Cableado de F.O.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principios Fundamentales de Redes Locales"
+              "title": "Tendido de Cableado de F.O"
             }
           }
         ]
@@ -184,17 +184,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "21180fe1e82507ab",
+  "active": "886617dbc81037a2",
   "lastOpenFiles": [
+    "Carlos Slim/Técnico en Redes de Datos/Lección 3/Tendido de Cableado UTP.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 3/Tendido de Cableado de F.O.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Construcción de Canalizadores.md",
     "Carlos Slim/Técnico en Redes de Datos/Lección 1/Selección de Cable UTP y de F.O.md",
+    "Pasted image 20260121190605.png",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Montaje de Bastidor de Telecomunicaciones.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Cableado Estructurado.md",
     "Carlos Slim/Técnico en Redes de Datos/Lección 1/Principios Fundamentales de Redes Locales.md",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 3/Tendido de Cableado de F.O",
+    "Carlos Slim/Técnico en Redes de Datos/Lección 3",
     "Attachments/image 1.png",
     "Attachments/a6393bfb-a7cb-4618-81a1-896907b094b0.png",
     "Attachments/2d2fa411-0ee8-404f-b1ad-b198fabcf7f1.png",
     "Carlos Slim/Técnico en Redes de Datos/Lección 1/Introducción a Redes LAN.md",
-    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Cableado Estructurado.md",
-    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Montaje de Bastidor de Telecomunicaciones.md",
-    "Carlos Slim/Técnico en Redes de Datos/Lección 2/Construcción de Canalizadores.md",
     "Untitled.canvas",
     "Attachments.md",
     "Attachments",
@@ -207,7 +212,6 @@
     "Tags",
     "Carlos Slim/Técnico en Redes de Datos",
     "Carlos Slim",
-    "I Semestre 2026",
     "Welcome.md"
   ]
 }

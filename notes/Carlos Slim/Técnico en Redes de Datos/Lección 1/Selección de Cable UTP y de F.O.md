@@ -2,6 +2,8 @@
 tags:
   - Redes
   - Cableado
+  - UTP
+  - FO
 ---
 
 Para seleccionar el cable de par trenzado y de fibra óptica, debe considerarse el cableado horizontal que va de los sitios de trabajo hasta el patch pannel en el bastidor de telecomunicaciones y el cableado vertical de fibra óptica que interconecta los distribuidores en los diferentes pisos.  

@@ -4,7 +4,7 @@ tags:
 ---
 ### LAN (Local Área Network)
 
-Redes en áreas locales y bajo una misma administración. Esta red existe cuando dos o más dispositivos pueden enviarse información entre sí en una área pequeña. La información se envía dividida en paquetes de datos, que se reensamblan en el destino. 
+Redes en áreas locales y bajo una misma administración. Esta red existe cuando dos o más dispositivos pueden enviarse información entre sí en una área pequeña. La información se envía dividida en paquetes de datos, que se re ensamblan en el destino. 
 
 Debe tener:
 
