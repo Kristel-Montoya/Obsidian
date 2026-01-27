@@ -1,0 +1,5 @@
+# Cache de Obsidian
+.obsidian/cache/
+
+# Estado de ventanas (causa conflictos)
+.obsidian/workspace.json

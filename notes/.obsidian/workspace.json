@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carlos Slim/Técnico en Redes de Datos/Lección 3/Tendido de Cableado de F.O.md",
+                "file": "Configuración/Git en Terminal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tendido de Cableado de F.O"
+              "title": "Git en Terminal"
             }
           }
         ]
@@ -164,14 +164,25 @@
               "icon": "lucide-list",
               "title": "Outline of Principios Fundamentales de Redes Locales"
             }
+          },
+          {
+            "id": "014254e5cc745b2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Configuración/Git en Terminal.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Git en Terminal"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,7 +195,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "886617dbc81037a2",
+  "active": "014254e5cc745b2c",
   "lastOpenFiles": [
     "Carlos Slim/Técnico en Redes de Datos/Lección 3/Tendido de Cableado UTP.md",
     "Carlos Slim/Técnico en Redes de Datos/Lección 3/Tendido de Cableado de F.O.md",
